@@ -1,0 +1,2950 @@
+[
+    {
+        "query_id": 1,
+        "query_text": "How is Acute Stress Disorder diagnosed?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Acute Stress Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Other Specified & UnSpecified Dissociative Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Paranoid Personality Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            }
+        ]    
+    },
+    {
+        "query_id": 2,
+        "query_text": "What are the symptoms of Agoraphobia?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Agoraphobia.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Panic Attack Specifier.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Anxiety Disorders.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Panic Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Acute Stress Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Separation Anxiety Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Posttraumatic Stress Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 3,
+        "query_text": "How to cope with Alcohol-Related Disorders",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Alcohol-Related Disorders.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Substance-Related Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Obsessive-Compulsive and Related Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Other Neurodevelopmental Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Substance-Related and Addictive Disorders.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Caffeine-Related Disorders.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Other Specified & UnSpecified Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Hallucinogen-Related Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Other Specified & UnSpecified Trauma- and Stressor-Related Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Cannabis-Related Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Sleep-Related Hypoventilation.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Substance Medication-Induced Sleep Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 4,
+        "query_text": "Signs and symptoms of Anorexia Nervosa",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Bulimia Nervosa.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Specified & UnSpecified Feeding or Eating Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Rumination Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Binge-Eating Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 5,
+        "query_text": "Serum HIV testing",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to HIV Infection.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Substance Medication-Induced Major or Mild Neurocognitive Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to Prion Disease.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Major and Mild Neurocognitive Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Opioid-Related Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Neurocognitive Disorders.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Other Mental Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Other Specified & UnSpecified Dissociative Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Neurodevelopmental Disorders.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Personality Change Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Intellectual Disabilities.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Medication-Induced Movement Disorders and.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Cannabis-Related Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Dissociative Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Agoraphobia.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Panic Attack Specifier.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Delirium.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Bulimia Nervosa.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 6,
+        "query_text": "REM sleep behavior disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Rapid Eye Movement Sleep Behavior Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Nightmare Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Substance Medication-Induced Sleep Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Hypersomnolence Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Insomnia Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Narcolepsy.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Other Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Circadian Rhythm Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Sleep-Related Hypoventilation.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Obstructive Sleep Apnea Hypopnea.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Central Sleep Apnea.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Restless Legs Syndrome.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 7,
+        "query_text": "Social Anxiety Disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Selective Mutism.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Separation Anxiety Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Anxiety Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Substance Medication-Induced.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Other Specified & UnSpecified Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Specific Phobia.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Panic Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Agoraphobia.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Communication Disorders.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 8,
+        "query_text": "How to treat Body Dysmorphic Disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Other Specified & UnSpecified Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Obsessive-Compulsive and Related Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Delusional Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Excoriation (Skin-Picking) Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Hoarding Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Obsessive-Compulsive Disorder.pdf"
+            }    
+        ]
+    },    
+    {
+        "query_id": 9,
+        "query_text": "Binge-Eating Disorder treatment centers",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Binge-Eating Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Other Specified & UnSpecified Feeding or Eating Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Bulimia Nervosa.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Borderline Personality Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Conduct Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            }
+        ]
+    },        
+    {
+        "query_id": 10,
+        "query_text": "Is Bipolar I Disorder genetic?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Intermittent Explosive Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Delusional Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 11,
+        "query_text": "Difference between Bipolar I and Bipolar II Disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Intermittent Explosive Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Conduct Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 12,
+        "query_text": "Psychotic Disorders",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Other Specified & UnSpecified Schizophrenia Spectrum and Other Psychotic Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Schizophrenia Spectrum and Other Psychotic Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Substance Medication-Induced Psychotic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Substance-Related and Addictive Disorders.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Substance-Related Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Delusional Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Personality Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 13,
+        "query_text": "Is Borderline Personality Disorder curable?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Borderline Personality Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Avoidant Personality Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Narcissistic Personality Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Dependent Personality Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Paranoid Personality Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Personality Disorders.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Obsessive-Compulsive Personality Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Histrionic Personality Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Personality Change Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Antisocial Personality Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Intermittent Explosive Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Factitious Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 14,
+        "query_text": "Bulimia Nervosa: Causes, symptoms, and treatment options",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Bulimia Nervosa.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Specified & UnSpecified Feeding or Eating Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Binge-Eating Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Rumination Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Substance Medication-Induced.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 15,
+        "query_text": "What is the risk of developing Cannabis-Related Disorders?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Cannabis-Related Disorders.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Substance-Related and Addictive Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Caffeine-Related Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Obsessive-Compulsive and Related Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Substance-Related Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Other Specified & UnSpecified Trauma- and Stressor-Related Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Other Specified & UnSpecified Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Hallucinogen-Related Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Alcohol-Related Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "\"Disruptive"
+            },
+            {
+                "id": 18,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Anxiety Disorders.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 16,
+        "query_text": "Catatonia treatment for patients with schizophrenia",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Catatonia.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Schizophrenia Spectrum and Other Psychotic Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Other Specified & UnSpecified Schizophrenia Spectrum and Other Psychotic Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Medication-Induced Movement Disorders and.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Other Conditions That May Be a Focus of Clinical Attention.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Rapid Eye Movement Sleep Behavior Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Delusional Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Major Depressive Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 17,
+        "query_text": "What causes Circadian Rhythm Sleep-Wake Disorders?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Circadian Rhythm Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Hypersomnolence Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Sleep-Related Hypoventilation.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Insomnia Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Narcolepsy.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Substance Medication-Induced Sleep Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Obstructive Sleep Apnea Hypopnea.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Central Sleep Apnea.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Rapid Eye Movement Sleep Behavior Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Nightmare Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Restless Legs Syndrome.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Substance-Related and Addictive Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Substance-Related Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "\"Disruptive"
+            },
+            {
+                "id": 18,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 18,
+        "query_text": "How to treat Conversion Disorder (Functional Neurological Symptom Disorder)",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Motor Disorders.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Substance Medication-Induced Psychotic Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 19,
+        "query_text": "Treatment options for Delirium in older adults",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Delirium.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Other Conditions That May Be a Focus of Clinical Attention.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Major and Mild Neurocognitive Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Dependent Personality Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Hallucinogen-Related Disorders.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Alcohol-Related Disorders.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Substance-Related Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Substance Medication-Induced.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Gender Dysphoria.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 20,
+        "query_text": "What are the symptoms?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Brief Psychotic Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Unspecified Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Acute Stress Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Attention-Deficit Hyperactivity.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Posttraumatic Stress Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Substance Medication-Induced.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 21,
+        "query_text": "Symptoms of Major Depressive Disorder vs. Persistent Depressive Disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Depressive Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Specified Depressive Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Major Depressive Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Schizophrenia.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 22,
+        "query_text": "How to manage Disruptive Mood Dysregulation Disorder in children",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Major Depressive Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "\"Disruptive"
+            },
+            {
+                "id": 6,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Intermittent Explosive Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Conduct Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Antisocial Personality Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Attention-Deficit Hyperactivity.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Schizoaffective Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Reactive Attachment Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Selective Mutism.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 23,
+        "query_text": "What is Dissociative Identity Disorder and how is it treated?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Dissociative Identity Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Dissociative Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Other Specified & UnSpecified Dissociative Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Dissociative Amnesia.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Borderline Personality Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Schizophreniform Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Acute Stress Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Persistent Depressive Disorder (Dysthymia).pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 24,
+        "query_text": "Understanding Feeding and Eating Disorders in adolescents",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Other Specified & UnSpecified Feeding or Eating Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Binge-Eating Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Bulimia Nervosa.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Rumination Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Attention-Deficit Hyperactivity.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Substance-Related and Addictive Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "\"Disruptive"
+            },
+            {
+                "id": 14,
+                "doc_name": "Intellectual Disabilities.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Personality Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Substance-Related Disorders.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 25,
+        "query_text": "Treatment for Fetishistic Disorder and its impact on relationships",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Fetishistic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Transvestic Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Schizotypal Personality Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Schizoid Personality Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Avoidant Personality Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Narcissistic Personality Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Dependent Personality Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Obsessive-Compulsive Personality Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Pedophilic Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Histrionic Personality Disorder.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Conduct Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 26,
+        "query_text": "Illness AND Anxiety AND Disorder",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Other Specified & UnSpecified Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Other Specified & UnSpecified Somatic Symptom and Related Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Separation Anxiety Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Obsessive-Compulsive Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Panic Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Panic Attack Specifier.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Psychological Factors Affecting Other Medical Conditions.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Circadian Rhythm Sleep-Wake Disorders.pdf"
+            }
+        ]
+    },    
+    {
+        "query_id": 27,
+        "query_text": "OCD AND ( anxiety OR depression OR tic OR body AND dysmorphic )",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Obsessive-Compulsive Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Motor Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Obsessive-Compulsive and Related Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Trichotillomania (Hair-Pulling Disorder).pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Hoarding Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Excoriation (Skin-Picking) Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Posttraumatic Stress Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Bulimia Nervosa.pdf.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Obsessive-Compulsive Personality Disorder.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 28,
+        "query_text": "ICD-9-CM AND NOT CNS",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Alcohol-Related Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Bipolar and Related Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Cannabis-Related Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Circadian Rhythm Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Delirium.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Depressive Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Excoriation (Skin-Picking) Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Generalized Anxiety Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Hallucinogen-Related Disorders.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Inhalant-Related Disorders.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Major or Mild Vascular Neurocognitive Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Narcolepsy.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Non–Rapid Eye Movement Sleep Arousal Disorders.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Opioid-Related Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Other Conditions That May Be a Focus of Clinical Attention.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Other (or Unknown) Substance–Related Disorders.pdf"
+            },
+            {
+                "id": 21,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 22,
+                "doc_name": "Premenstrual Dysphoric Disorder.pdf"
+            },
+            {
+                "id": 23,
+                "doc_name": "Sedative-, Hypnotic-, or Anxiolytic-Related Disorders.pdf"
+            },
+            {
+                "id": 24,
+                "doc_name": "Sleep-Related Hypoventilation.pdf"
+            },
+            {
+                "id": 25,
+                "doc_name": "Stimulant-Related Disorders.pdf"
+            },
+            {
+                "id": 26,
+                "doc_name": "Substance Medication-Induced Bipolar and Related Disorder.pdf"
+            },
+            {
+                "id": 27,
+                "doc_name": "Substance Medication-Induced Depressive Disorder.pdf"
+            },
+            {
+                "id": 28,
+                "doc_name": "Substance Medication-Induced Obsessive-Compulsive and Related Disorder.pdf"
+            },
+            {
+                "id": 29,
+                "doc_name": "Substance Medication-Induced Major or Mild Neurocognitive Disorder.pdf"
+            },
+            {
+                "id": 30,
+                "doc_name": "Substance Medication-Induced Psychotic Disorder.pdf"
+            },
+            {
+                "id": 31,
+                "doc_name": "Substance Medication-Induced Sleep Disorder.pdf"
+            },
+            {
+                "id": 32,
+                "doc_name": "Substance Medication-Induced.pdf"
+            },
+            {
+                "id": 33,
+                "doc_name": "Tobacco-Related Disorders.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 29,
+        "query_text": "ICD-11 OR AAIDD",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Communication Disorders.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Intellectual Disabilities.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Neurodevelopmental Disorders.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 30,
+        "query_text": "DSM-5 AND DSM-IV OR ICSD-2",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Bipolar I Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Cannabis-Related Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Circadian Rhythm Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Central Sleep Apnea.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Hypersomnolence Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Insomnia Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Narcolepsy.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Neurocognitive Disorders.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Nightmare Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Obstructive Sleep Apnea Hypopnea.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Other Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Personality Disorders.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Rapid Eye Movement Sleep Behavior Disorder.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Restless Legs Syndrome.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Sleep-Related Hypoventilation.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Sleep-Wake Disorders.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 21,
+                "doc_name": "Substance Medication-Induced Sleep Disorder.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 31,
+        "query_text": "DSM-5 AND NOT Sleep",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Delusional Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Dissociative Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "General Personality Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Neurocognitive Disorders.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Obsessive-Compulsive and Related Disorders.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Other Mental Disorders.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Pedophilic Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Personality Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Schizophrenia Spectrum and Other Psychotic Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 32,
+        "query_text": "( Disorder AND Eating ) AND NOT Sleep",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Antisocial Personality Disorder (Personality Disorders).pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Antisocial Personality Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Binge-Eating Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Body Dysmorphic Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Borderline Personality Disorder.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Bulimia Nervosa.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to Huntington’s Disease.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Obsessive-Compulsive Disorder.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Obsessive-Compulsive Personality Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Pica.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Rumination Disorder.pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Specific Phobia.pdf"
+            }
+        ]  
+    }, 
+    {
+        "query_id": 33,
+        "query_text": "Personality AND NOT Social",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Major or Mild Neurocognitive Disorder Due to Parkinson’s Disease.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Major or Mild Vascular Neurocognitive Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Psychological Factors Affecting Other Medical Conditions.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 34,
+        "query_text": "Eating AND Disorder AND NOT Personality",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Anorexia Nervosa.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Anxiety Disorders.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Major or Mild Neurocognitive Disorder With Lewy Bodies.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Motor Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Narcolepsy.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Rumination Disorder.pdf"
+            }
+        ]
+    },
+    {
+        "query_id": 35,
+        "query_text": "panic AND attack",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Acute Stress Disorder.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Agoraphobia.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Anxiety Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Anxiety Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Depersonalization Derealization Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Panic Attack Specifier.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Panic Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Posttraumatic Stress Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Psychological Factors Affecting Other Medical Conditions.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Separation Anxiety Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Social Anxiety Disorder (Social Phobia).pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Specific Phobia.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Substance Medication-Induced.pdf"
+            }
+        ]
+        
+    },
+    {
+        "query_id": 36,
+        "query_text": "ADHD",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Attention-Deficit Hyperactivity.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Conduct Disorder.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Cyclothymic Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Motor Disorders.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Intermittent Explosive Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Specific Learning Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Neurodevelopmental Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Bipolar II Disorder.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Oppositional Defiant Disorder.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Disruptive Mood Dysregulation Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Communication Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Bipolar I Disorder.pdf"
+            }
+        ]
+    
+    },
+    {
+        "query_id": 37,
+        "query_text": "What psychological factors impact physical health conditions, and what approaches are used to address these interactions in healthcare?",
+        "responses": [
+            {
+                "id": 1,
+                "doc_name": "Psychological Factors Affecting Other Medical Conditions.pdf"
+            },
+            {
+                "id": 2,
+                "doc_name": "Other Conditions That May Be a Focus of Clinical Attention.pdf"
+            },
+            {
+                "id": 3,
+                "doc_name": "Factitious Disorder.pdf"
+            },
+            {
+                "id": 4,
+                "doc_name": "Other Specified & UnSpecified Trauma- and Stressor-Related Disorder.pdf"
+            },
+            {
+                "id": 5,
+                "doc_name": "Illness Anxiety Disorder.pdf"
+            },
+            {
+                "id": 6,
+                "doc_name": "Somatic Symptom Disorder.pdf"
+            },
+            {
+                "id": 7,
+                "doc_name": "Somatic Symptom and Related Disorders.pdf"
+            },
+            {
+                "id": 8,
+                "doc_name": "Depressive Disorders.pdf"
+            },
+            {
+                "id": 9,
+                "doc_name": "Adjustment Disorders.pdf"
+            },
+            {
+                "id": 10,
+                "doc_name": "Autism Spectrum Disorder.pdf"
+            },
+            {
+                "id": 11,
+                "doc_name": "Intellectual Disabilities.pdf"
+            },
+            {
+                "id": 12,
+                "doc_name": "Anxiety Disorders.pdf"
+            },
+            {
+                "id": 13,
+                "doc_name": "Psychotic Disorder Due to Another Medical Condition.pdf"
+            },
+            {
+                "id": 14,
+                "doc_name": "Schizophrenia Spectrum and Other Psychotic Disorders.pdf"
+            },
+            {
+                "id": 15,
+                "doc_name": "Conversion Disorder (Functional Neurological Symptom Disorder).pdf"
+            },
+            {
+                "id": 16,
+                "doc_name": "Feeding and Eating Disorders.pdf"
+            },
+            {
+                "id": 17,
+                "doc_name": "Avoidant Restrictive Food Intake Disorder.pdf"
+            },
+            {
+                "id": 18,
+                "doc_name": "Trauma- and Stressor-Related Disorders.pdf"
+            },
+            {
+                "id": 19,
+                "doc_name": "Posttraumatic Stress Disorder.pdf"
+            },
+            {
+                "id": 20,
+                "doc_name": "Disinhibited Social Engagement Disorder.pdf"
+            }
+        ]
+    }
+]
