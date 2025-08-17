@@ -1,0 +1,160 @@
+{
+    "DepressiveDisorders": {
+        "Depressivedisordersincludedisruptivemooddysregulationdisorder,major": "depressive disorder (including major depressive episode), persistent depressive disorder (dysthymia), ..."
+    },
+    "DisruptiveMoodDysregulationDisorder": {
+        "DiagnosticCriteria": [
+            "A. Severe recurrent temper outbursts manifested verbally (e.g., verbal rages) ...",
+            "B. The temper outbursts are inconsistent with developmental level. ...",
+            "C. The temper outbursts occur, on average, three or more ...",
+            "D. The mood between temper outbursts is persistently irritable or ...",
+            "E. Criteria A–D have been present for 12 or more ...",
+            "F. Criteria A and D are present in at least ...",
+            "G. The diagnosis should not be made for the first ...",
+            "H. By history or observation, the age at onset of ...",
+            "J. The behaviors do not occur exclusively during an episode ...",
+            "K. The symptoms are not attributable to the physiological effects ..."
+        ],
+        "DiagnosticFeatures": "296.99 (F34.8) The core feature of disruptive mood dysregulation disorder ...",
+        "Prevalence": "Disruptive mood dysregulation disorder is common among children presenting to ...",
+        "DevelopmentandCourse": "The onset of disruptive mood dysregulation disorder must be before ...",
+        "RiskandPrognosticFactors": "Temperamental. Children with chronic irritability typically exhibit complicated psy- chiatric ...",
+        "Gender-RelatedDiagnosticIssues": "Children presenting to clinics with features of disruptive mood dysregulation ...",
+        "SuicideRisk": "In general, evidence documenting suicidal behavior and aggression, as well ...",
+        "FunctionalConsequencesofDisruptiveMoodDysregulationDisorder": "Chronic, severe irritability, such as is seen in disruptive mood ...",
+        "DifferentialDiagnosis": "Because chronically irritable children and adolescents typically present with complex ...",
+        "Comorbidity": "Rates of comorbidity in disruptive mood dysregulation disorder are extremely ..."
+    },
+    "MajorDepressiveDisorder": {
+        "DiagnosticCriteria": [
+            "A. Five (or more) of the following symptoms have been ...",
+            "1. Depressed mood most of the day, nearly every day, ...",
+            "2. Markedly diminished interest or pleasure in all, or almost ...",
+            "3. Significant weight loss when not dieting or weight gain ...",
+            "4. Insomnia or hypersomnia nearly every day. ...",
+            "5. Psychomotor agitation or retardation nearly every day (observable by ...",
+            "6. Fatigue or loss of energy nearly every day. ...",
+            "7. Feelings of worthlessness or excessive or inappropriate guilt (which ...",
+            "8. Diminished ability to think or concentrate, or indecisiveness, nearly ...",
+            "9. Recurrent thoughts of death (not just fear of dying), ...",
+            "B. The symptoms cause clinically significant distress or impairment in ...",
+            "C. The episode is not attributable to the physiological effects ...",
+            "D. The occurrence of the major depressive episode is not ...",
+            "E. There has never been a manic episode or a ..."
+        ],
+        "DiagnosticFeatures": "The criterion symptoms for major depressive disorder must be present ...",
+        "AssociatedFeaturesSupportingDiagnosis": "Major depressive disorder is associated with high mortality, much of ...",
+        "Prevalence": "Twelve-month prevalence of major depressive disorder in the United States ...",
+        "DevelopmentandCourse": "Major depressive disorder may first appear at any age, but ...",
+        "RiskandPrognosticFactors": "Temperamental. Neuroticism (negative affectivity) is a well-established risk factor for ...",
+        "Culture-RelatedDiagnosticIssues": "Surveys of major depressive disorder across diverse cultures have shown ...",
+        "Gender-RelatedDiagnosticIssues": "Although the most reproducible finding in the epidemiology of major ...",
+        "SuicideRisk": "The possibility of suicidal behavior exists at all times during ...",
+        "FunctionalConsequencesofMajorDepressiveDisorder": "Many of the functional consequences of major depressive disorder derive ...",
+        "DifferentialDiagnosis": "Manic episodes with irritable mood or mixed episodes. Major depressive ...",
+        "Comorbidity": "Other disorders with which major depressive disorder frequently co-occurs are ..."
+    },
+    "PersistentDepressiveDisorder(Dysthymia)": {
+        "DiagnosticCriteria": [
+            "A. Depressed mood for most of the day, for more ...",
+            "B. Presence, while depressed, of two (or more) of the ...",
+            "1. Poor appetite or overeating. ...",
+            "2. Insomnia or hypersomnia. ...",
+            "3. Low energy or fatigue. ...",
+            "4. Low self-esteem. ...",
+            "5. Poor concentration or difficulty making decisions. ...",
+            "6. Feelings of hopelessness. ...",
+            "C. During the 2-year period (1 year for children or ...",
+            "D. Criteria for a major depressive disorder may be continuously ...",
+            "E. There has never been a manic episode or a ...",
+            "F. The disturbance is not better explained by a persistent ...",
+            "G. The symptoms are not attributable to the physiological effects ...",
+            "H. The symptoms cause clinically significant distress or impairment in ..."
+        ],
+        "DiagnosticFeatures": "300.4 (F34.1) This disorder represents a consolidation of DSM-IV-defined chronic ...",
+        "Prevalence": "Persistent depressive disorder is effectively an amalgam of DSM-IV dysthymic ...",
+        "DevelopmentandCourse": "Persistent depressive disorder often has an early and insidious onset ...",
+        "RiskandPrognosticFactors": "Temperamental. Factors predictive of poorer long-term outcome include higher levels ...",
+        "FunctionalConsequencesofPersistentDepressiveDisorder": "The degree to which persistent depressive disorder impacts social and ...",
+        "DifferentialDiagnosis": "Major depressive disorder. If there is a depressed mood plus ...",
+        "Comorbidity": "In comparison to individuals with major depressive disorder, those with ..."
+    },
+    "PremenstrualDysphoricDisorder": {
+        "DiagnosticCriteria": [
+            "A. In the majority of menstrual cycles, at least five ...",
+            "B. One (or more) of the following symptoms must be ...",
+            "1. Marked affective lability (e.g., mood swings; feeling suddenly sad ...",
+            "2. Marked irritability or anger or increased interpersonal conflicts. ...",
+            "3. Marked depressed mood, feelings of hopelessness, or self-deprecating thoughts. ...",
+            "4. Marked anxiety, tension, and/or feelings of being keyed up ...",
+            "C. One (or more) of the following symptoms must additionally ...",
+            "1. Decreased interest in usual activities (e.g., work, school, friends, ...",
+            "2. Subjective difficulty in concentration. ...",
+            "3. Lethargy, easy fatigability, or marked lack of energy. ...",
+            "4. Marked change in appetite; overeating; or specific food cravings. ...",
+            "5. Hypersomnia or insomnia. ...",
+            "6. A sense of being overwhelmed or out of control. ...",
+            "7. Physical symptoms such as breast tenderness or swelling, joint ...",
+            "D. The symptoms are associated with clinically significant distress or ...",
+            "E. The disturbance is not merely an exacerbation of the ...",
+            "F. Criterion A should be confirmed by prospective daily ratings ...",
+            "G. The symptoms are not attributable to the physiological effects ..."
+        ],
+        "RecordingProcedures": "625.4 (N94.3) If symptoms have not been confirmed by prospective ...",
+        "DiagnosticFeatures": "The essential features of premenstrual dysphoric disorder are the expression ...",
+        "AssociatedFeaturesSupportingDiagnosis": "Delusions and hallucinations have been described in the late luteal ...",
+        "Prevalence": "Twelve-month prevalence of premenstrual dysphoric disorder is between 1.8% and ...",
+        "DevelopmentandCourse": "Onset of premenstrual dysphoric disorder can occur at any point ...",
+        "RiskandPrognosticFactors": "Environmental. Environmental factors associated with the expression of premenstrual dysphoric ...",
+        "Culture-RelatedDiagnosticIssues": "Premenstrual dysphoric disorder is not a culture-bound syndrome and has ...",
+        "DiagnosticMarkers": "As indicated earlier, the diagnosis of premenstrual dysphoric disorder is ...",
+        "FunctionalConsequencesofPremenstrualDysphoricDisorder": "Symptoms must be associated with clinically meaningful distress and/or an ...",
+        "DifferentialDiagnosis": "Premenstrual syndrome. Premenstrual syndrome differs from premenstrual dysphoric disorder in ...",
+        "Comorbidity": "A major depressive episode is the most frequently reported previous ..."
+    },
+    "Substance/Medication-InducedDepressiveDisorder": {
+        "DiagnosticCriteria": [
+            "A. A prominent and persistent disturbance in mood that predominates ...",
+            "B. There is evidence from the history, physical examination, or ...",
+            "1. The symptoms in Criterion A developed during or soon ...",
+            "2. The involved substance/medication is capable of producing the symptoms ...",
+            "C. The disturbance is not better explained by a depressive ...",
+            "D. The disturbance does not occur exclusively during the course ...",
+            "E. The disturbance causes clinically significant distress or impairment in ..."
+        ],
+        "RecordingProcedures": "ICD-9-CM. The name of the substance/medication-induced depressive disorder begins with ...",
+        "DiagnosticFeatures": "The diagnostic features of substance/medication-induced depressive disorder include the symptoms ...",
+        "Prevalence": "In a nationally representative U.S. adult population, the lifetime prevalence ...",
+        "DevelopmentandCourse": "A depressive disorder associated with the use of substance (i.e., ...",
+        "RiskandPrognosticFactors": "Temperamental. Factors that appear to increase the risk of substance/medication- ...",
+        "DiagnosticMarkers": "Determination of the substance of use can sometimes be made ...",
+        "SuicideRisk": "Drug-induced or treatment-emergent suicidality represents a marked change in thoughts ...",
+        "DifferentialDiagnosis": "Substance intoxication and withdrawal. Depressive symptoms occur commonly in sub- ...",
+        "Comorbidity": "Compared with individuals with major depressive disorder and no comorbid ..."
+    },
+    "DepressiveDisorderDuetoAnotherMedicalCondition": {
+        "DiagnosticCriteria": [
+            "A. A prominent and persistent period of depressed mood or ...",
+            "B. There is evidence from the history, physical examination, or ...",
+            "C. The disturbance is not better explained by another mental ...",
+            "D. The disturbance does not occur exclusively during the course ...",
+            "E. The disturbance causes clinically significant distress or impairment in ..."
+        ],
+        "DiagnosticFeatures": "The essential feature of depressive disorder due to another medical ...",
+        "AssociatedFeaturesSupportingDiagnosis": "Etiology (i.e., a causal relationship to another medical condition based ...",
+        "DevelopmentandCourse": "Following stroke, the onset of depression appears to be very ...",
+        "RiskandPrognosticFactors": "The risk of acute onset of a major depressive disorder ...",
+        "Gender-RelatedDiagnosticIssues": "Gender differences pertain to those associated with the medical condition ...",
+        "DiagnosticMarkers": "Diagnostic markers pertain to those associated with the medical condition ...",
+        "SuicideRisk": "There are no epidemiological studies that provide evidence to differentiate ...",
+        "FunctionalConsequencesofDepressiveDisorderDuetoAnotherMedicalCondition": "Functional consequences pertain to those associated with the medical condition. ...",
+        "DifferentialDiagnosis": "Depressive disorders not due to another medical condition. Determination of ...",
+        "Comorbidity": "Conditions comorbid with depressive disorder due to another medical condition ..."
+    },
+    "OtherSpecifiedDepressiveDisorder": "311 (F32.8) This category applies to presentations in which symptoms ...",
+    "UnspecifiedDepressiveDisorder": "311 (F32.9) This category applies to presentations in which symptoms ...",
+    "SpecifiersforDepressiveDisorders": "Specify if: With anxious distress: Anxious distress is defined as ...",
+    "AnxietyDisorders": {
+        "Anxietydisordersincludedisordersthatsharefeaturesofexcessivefearandanxi-": "ety and related behavioral disturbances. Fear is the emotional response ..."
+    }
+}
